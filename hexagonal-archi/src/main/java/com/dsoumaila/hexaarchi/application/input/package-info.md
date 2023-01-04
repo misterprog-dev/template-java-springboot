@@ -1,0 +1,3 @@
+> The input package, defining what the user would like to do in the application.<br>
+> In our example, create new products and get all product, ...
+
